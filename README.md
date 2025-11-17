@@ -1,2 +1,6 @@
 # hello-world
-M first repository on GitHub
+My first repository on GitHub
+
+first editing on GitHub
+
+congraturations~
